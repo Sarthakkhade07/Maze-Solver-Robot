@@ -35,7 +35,7 @@ void setup() {
   pinMode(trigger_right,OUTPUT);
   pinMode(echo_right,INPUT);
   
-  analogWrite(motor_enableA, 8 0);
+  analogWrite(motor_enableA, 80);
   analogWrite(motor_enableB, 88);
 
 }
